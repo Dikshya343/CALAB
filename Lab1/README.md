@@ -3,7 +3,7 @@
 ## Objective
 To design and simulate a buffer circuit using VHDL.
 
-##THEORY
+## THEORY
 VHDL is an acronym for VHSIC Hardware Description Language (VHSIC stands for Very High Speed Integrated Circuits). 
 It is an IEEE industry-standard hardware description language that can be used to model a digital system at many levels of abstraction, 
 ranging from the algorithmic level to the gate level. Unlike conventional programming languages,
@@ -22,7 +22,7 @@ The waveform shows that the output follows the input correctly.
 <img width="1440" height="810" alt="Screenshot 2026-05-12 at 09 47 53" src="https://github.com/user-attachments/assets/c2baf2a1-a63f-46e4-9ada-174ff7047cd7" />
 
 
-##DISCUSSION
+## DISCUSSION
 
 In this lab, a digital circuit was successfully designed using VHDL. 
 The design was implemented in the design.vhd file and tested using a testbench in testbench.vhd. 
