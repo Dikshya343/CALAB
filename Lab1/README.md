@@ -1,4 +1,4 @@
-# Lab 1: Introduction to VHDL Programming
+## Lab 1: Introduction to VHDL Programming
 
 ## Objective
 To design and simulate a buffer circuit using VHDL.
