@@ -16,10 +16,10 @@ A decoder converts an n-bit binary input into one of 2n output lines. A 2-to-4 d
 
 
 ## output 
-![image]( 2 to 4 decoder output.png)
+![img]( 2 to 4 decoder output.png)
 decoder
 
-![image] (4 to 2 encoder output.png)
+![img] (4 to 2 encoder output.png)
 encoder
 
 
