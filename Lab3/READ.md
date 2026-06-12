@@ -15,6 +15,16 @@ Decoder
 A decoder converts an n-bit binary input into one of 2n output lines. A 2-to-4 decoder has a 2-bit input (A1A0) and 4 output lines (Y0–Y3). Exactly one output is HIGH at a time. 
 
 
+## output 
+![image]( 2 to 4 decoder output.png)
+decoder
+
+![image] (4 to 2 encoder output.png)
+encoder
+
+
+
+
 
 ##  Discussion
 
