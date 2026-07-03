@@ -20,7 +20,7 @@ It is self-complementing, making it useful in arithmetic circuits.
 
 
 
-      <img width="728" height="500" alt="image" src="https://github.com/user-attachments/assets/2390dc46-7b2c-4b35-ae0f-b379ba7b7cb1" />
+    
 
 
 
